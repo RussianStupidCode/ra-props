@@ -27,7 +27,7 @@ const Advertisement = ({
     <div className="item">
       <div className="item-image">
         <a href={url}>
-          <img src={mainImage.url_570xN} />
+          <img src={mainImage.url_570xN} alt="img" />
         </a>
       </div>
       <div className="item-details">
