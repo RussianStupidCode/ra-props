@@ -1,3 +1,3 @@
-# [ТЗ](https://github.com/netology-code/ra16-homeworks/tree/master/events-state)
+# [ТЗ](https://github.com/netology-code/ra16-homeworks/tree/master/props)
 
-# [Приложение](https://russianstupidcode.github.io/ra-events-and-states)
+# [Приложение](https://russianstupidcode.github.io/ra-props)
