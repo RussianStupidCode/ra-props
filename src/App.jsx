@@ -8,7 +8,6 @@ import entity from "./data/entities.json";
 import Listing from "./components/UI/listing/listing";
 
 function App() {
-  console.log(entity);
   return (
     <Routes>
       <Route path="" element={<MainLayout />}>

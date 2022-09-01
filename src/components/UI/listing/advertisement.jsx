@@ -21,8 +21,6 @@ const Advertisement = ({
     return "level-hight";
   };
 
-  console.log(url, mainImage, price, title, currencyCode);
-
   return (
     <div className="item">
       <div className="item-image">
